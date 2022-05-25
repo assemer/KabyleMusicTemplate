@@ -15,11 +15,11 @@ You can Use it, it free and OpenSource<br>
 
 
 ## Music Include
-[ASSAM Mouloud - Aqlalas](https://choosealicense.com/licenses/mit/)<br>
-[ASSAM Mouloud - Afalku](https://choosealicense.com/licenses/mit/)<br>
-[ASSAM Mouloud - Am doro](https://choosealicense.com/licenses/mit/)<br>
-[ASSAM Mouloud - Anwa id abrid](https://choosealicense.com/licenses/mit/)<br>
-[ASSAM Mouloud - Tameslayt](https://choosealicense.com/licenses/mit/)<br>
+<a href='dist/audio/album/assam_mouloud/Aqlalas.mp3' >ASSAM Mouloud - Aqlalas</a><br>
+<a href='dist/audio/album/assam_mouloud/ASSAM Mouloud - Afalku.mp3' >ASSAM Mouloud - Afalku</a><br>
+<a href='dist/audio/album/assam_mouloud/ASSAM MOULOUD  - Am doro.mp3' >ASSAM Mouloud - Am doro</a><br>
+<a href='dist/audio/album/assam_mouloud/ASSAM Mouloud - Anwa id abrid.mp3' >ASSAM Mouloud - Anwa id abrid</a><br>
+<a href='dist/audio/album/assam_mouloud/Assam Mouloud Tameslayt.mp3' >ASSAM Mouloud - Tameslayt</a><br>
 
 ## License
 Free OpenSource 
